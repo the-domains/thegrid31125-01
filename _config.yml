@@ -1,0 +1,28 @@
+name: thegrid31125-01
+favicon: null
+layout_spectrum: 0.5599409642163664
+typography_spectrum: 0.7613866152241826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8905624661128968
+  lightness: 0.8026276528835297
+  saturation: 0.6199664906598628
+  rhythmicContrast: 0.1825506768655032
+purpose: []
